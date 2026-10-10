@@ -1,0 +1,37 @@
+name: NUC7738_cell_lines
+outdir: ../results/isoends
+samples: isoends_samples.tsv
+control: DMSO
+treatment: NUC7738
+reference:
+  gtf: ../data/reference/gencode.v49.primary_assembly.annotation.gtf
+runs:
+  SKMEL28: {results: ../data/runs/SKMEL28/analysis/isoforge/results}
+  MeWo: {results: ../data/runs/MeWo/analysis/isoforge/results}
+  CHL1: {results: ../data/runs/CHL1/analysis/isoforge/results}
+  A375: {results: ../data/runs/A375/analysis/isoforge/results}
+  786O: {results: ../data/runs/786O/analysis/isoforge/results}
+  769P: {results: ../data/runs/769P/analysis/isoforge/results}
+  CAKI1: {results: ../data/runs/CAKI1/analysis/isoforge/results}
+  MDAMB231: {results: ../data/runs/MDAMB231/analysis/isoforge/results}
+  MDAMB468: {results: ../data/runs/MDAMB468/analysis/isoforge/results}
+  MDAMB436: {results: ../data/runs/MDAMB436/analysis/isoforge/results}
+  HS578T: {results: ../data/runs/HS578T/analysis/isoforge/results}
+  T24: {results: ../data/runs/T24/analysis/isoforge/results}
+  UMUC3: {results: ../data/runs/UMUC3/analysis/isoforge/results}
+  HCT116: {results: ../data/runs/HCT116/analysis/isoforge/results}
+  HT29: {results: ../data/runs/HT29/analysis/isoforge/results}
+  SW480: {results: ../data/runs/SW480/analysis/isoforge/results}
+  U937: {results: ../data/runs/U937/analysis/isoforge/results}
+  HL60: {results: ../data/runs/HL60/analysis/isoforge/results}
+  MM1R: {results: ../data/runs/MM1R/analysis/isoforge/results}
+  ANBL6: {results: ../data/runs/ANBL6/analysis/isoforge/results}
+  NCIH82: {results: ../data/runs/NCIH82/analysis/isoforge/results}
+  NCIH69: {results: ../data/runs/NCIH69/analysis/isoforge/results}
+figures:
+  enabled: false
+params:
+  tss:
+    enabled: false
+  stats:
+    seed: 7738

@@ -1,0 +1,12 @@
+name: nuc7738
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.12
+  - minimap2=2.31
+  - samtools=1.21
+  - oarfish=0.9.3
+  - pip
+  - pip:
+      - git+https://github.com/MustafaElshani/IsoEnds@v1.0.0

@@ -1,0 +1,23 @@
+order,cell_line,cancer_type,cancer_type_code,tp53_status,cellosaurus_ac,depmap_id,depmap_note,ont_kit,run_dir
+1,SKMEL28,Melanoma,Melanoma,mutant,CVCL_0526,ACH-000615,,PCB111,data/runs/SKMEL28
+2,MeWo,Melanoma,Melanoma,mutant,CVCL_0445,ACH-000987,,PCB111,data/runs/MeWo
+3,CHL1,Melanoma,Melanoma,mutant,CVCL_1122,ACH-001024,,PCB111,data/runs/CHL1
+4,A375,Melanoma,Melanoma,wild-type,CVCL_0132,ACH-000219,,PCB114,data/runs/A375
+5,786O,ccRCC,ccRCC,mutant,CVCL_1051,ACH-000649,,PCB111,data/runs/786O
+6,769P,ccRCC,ccRCC,wild-type,CVCL_1050,ACH-000411,,PCB111,data/runs/769P
+7,CAKI1,ccRCC,ccRCC,wild-type,CVCL_0234,ACH-000433,,PCB111,data/runs/CAKI1
+8,MDAMB231,TNBC,TNBC,mutant,CVCL_0062,ACH-000768,,PCB114,data/runs/MDAMB231
+9,MDAMB468,TNBC,TNBC,mutant,CVCL_0419,ACH-000849,,PCB114,data/runs/MDAMB468
+10,MDAMB436,TNBC,TNBC,mutant,CVCL_0623,ACH-000573,,PCB114,data/runs/MDAMB436
+11,HS578T,TNBC,TNBC,mutant,CVCL_0332,ACH-000148,,PCB114,data/runs/HS578T
+12,T24,Bladder,BLCA,mutant,CVCL_0554,ACH-000018,,PCB114,data/runs/T24
+13,UMUC3,Bladder,BLCA,mutant,CVCL_1783,ACH-000522,,PCB114,data/runs/UMUC3
+14,HCT116,Colorectal,COLO,wild-type,CVCL_0291,ACH-000971,,PCB114,data/runs/HCT116
+15,HT29,Colorectal,COLO,mutant,CVCL_0320,ACH-000552,,PCB114,data/runs/HT29
+16,SW480,Colorectal,COLO,mutant,CVCL_0546,ACH-000842,,PCB114,data/runs/SW480
+17,U937,Hematological,HAEM,mutant,CVCL_0007,ACH-000406,,PCB114,data/runs/U937
+18,HL60,Hematological,HAEM,wild-type,CVCL_0002,ACH-000002,,PCB114,data/runs/HL60
+19,MM1R,Hematological,HAEM,wild-type,CVCL_8794,ACH-000763,parental MM1S (MM1R not in DepMap),PCB114,data/runs/MM1R
+20,ANBL6,Hematological,HAEM,wild-type,CVCL_5425,,not in DepMap,PCB114,data/runs/ANBL6
+21,NCIH82,Lung,LUNG,wild-type,CVCL_1591,ACH-000355,,PCB114,data/runs/NCIH82
+22,NCIH69,Lung,LUNG,mutant,CVCL_1579,ACH-000358,,PCB114,data/runs/NCIH69

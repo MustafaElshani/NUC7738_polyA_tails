@@ -1,0 +1,10 @@
+data/
+cache
+cache/
+results/
+figures/
+config/paths.local.yaml
+__pycache__/
+*.egg-info/
+.ipynb_checkpoints/
+Rplots.pdf
